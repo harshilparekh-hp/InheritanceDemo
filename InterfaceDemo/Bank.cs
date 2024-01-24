@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace InterfaceDemo
+{
+    internal class Bank
+    {
+
+        int balance;
+       
+
+        public void TransferBalance()
+        {
+
+        }
+
+    }
+}
